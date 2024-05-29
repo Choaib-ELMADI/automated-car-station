@@ -1,18 +1,16 @@
 ![Choaib ELMADI / Ayoub ELHAZMIRI - Step7](https://img.shields.io/badge/Choaib_ELMADI_/_Ayoub_ELHAZMIRI-Step7-8800dd) ![Choaib ELMADI / Ayoub ELHAZMIRI - FluidSim](https://img.shields.io/badge/Choaib_ELMADI_/_Ayoub_ELHAZMIRI-FluidSim-8800dd)
 
-# Rapport: Conception d’un Système Automatisé
+# Station de Voitures Automatisée
 
 ## Mise en oeuvre Step7 / FluidSim
 
-## Projet: Station de Voitures Automatisée
-
 ![Station Automatisée](./Documents/3.%20Station%20Automatisée.png)
 
-**Réalisé par:** _ELMADI Choaib_, _ELHAZMIRI Ayoub_
+**Réalisé par :** _ELMADI Choaib_, _ELHAZMIRI Ayoub_
 
-**Filière:** _SEECS - 1_
+**Filière &nbsp;&nbsp;&nbsp;&nbsp;:** _SEECS - 1_
 
-**Encadré par:** _M. A. TAJER_
+**Encadré par :** _M. A. TAJER_
 
 <br>
 
