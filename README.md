@@ -56,14 +56,19 @@ Le système est constitué des éléments suivants:
 
 ### 1. Les entrées et les sorties:
 
-**Les entrées:**  
-Bouton _DCY_  
-Capteurs de position: _e1_, _e2_, _s1_, _s2_  
-Capteurs de position: _eb_, _eh_, _sb_, _sh_
+**Les entrées:**
 
-**Les sorties:**  
-Les vérins: _m1+_, _m1-_, _m2+_, _m2-_
-Les lampes: _Ler_, _Lev_, _Lsr_, _Lsv_
+- Bouton _DCY_
+
+- Capteurs de position: _e1_, _e2_, _s1_, _s2_
+
+- Capteurs de position: _eb_, _eh_, _sb_, _sh_
+
+**Les sorties:**
+
+- Les vérins: _m1+_, _m1-_, _m2+_, _m2-_
+
+- Les lampes: _Ler_, _Lev_, _Lsr_, _Lsv_
 
 ### 2. Les grafcets:
 
