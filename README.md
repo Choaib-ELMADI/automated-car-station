@@ -1,3 +1,5 @@
+![Choaib ELMADI / Ayoub ELHAZMIRI - Step7](https://img.shields.io/badge/Choaib_ELMADI_/_Ayoub_ELHAZMIRI-Step7-8800dd) ![Choaib ELMADI / Ayoub ELHAZMIRI - FluidSim](https://img.shields.io/badge/Choaib_ELMADI_/_Ayoub_ELHAZMIRI-FluidSim-8800dd)
+
 # Rapport: Conception d’un Système Automatisé
 
 ## Mise en oeuvre Step7 / FluidSim
