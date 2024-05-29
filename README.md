@@ -6,11 +6,11 @@
 
 ![Station Automatisée](./Documents/3.%20Station%20Automatisée.png)
 
-**Réalisé par :** ...... _ELMADI Choaib_, _ELHAZMIRI Ayoub_
+**Réalisé par :** ......... _ELMADI Choaib_, _ELHAZMIRI Ayoub_
 
-**Filière :** .......... _SEECS - 1_
+**Filière :** ................... _SEECS - 1_
 
-**Encadré par :** ...... _M. A. TAJER_
+**Encadré par :** ....... _M. A. TAJER_
 
 <br>
 
