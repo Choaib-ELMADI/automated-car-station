@@ -6,6 +6,8 @@
 
 ![Station Automatisée](./Documents/3.%20Station%20Automatisée.png)
 
+https://github.com/Choaib-ELMADI/station-de-voitures-automatisee/assets/111356633/a8614c0f-a608-4b74-94c8-2be113105e19
+
 **Réalisé par :** ......... _ELMADI Choaib_, _ELHAZMIRI Ayoub_
 
 **Filière :** ................... _SEECS - 1_
@@ -101,3 +103,5 @@ et voici le circuit final:
 ![FC5](./Documents/Step7/FC5.png)
 
 ### Merci de consulter la simulation (vidéo):
+
+https://github.com/Choaib-ELMADI/station-de-voitures-automatisee/assets/111356633/a8614c0f-a608-4b74-94c8-2be113105e19
