@@ -12,8 +12,6 @@
 
 **Encadré par :** ....... _M. A. TAJER_
 
-<br>
-
 ## I. Explication du projet:
 
 L'idée principale est de développer un système automatisé pour réguler efficacement le flux de véhicules entrant et sortant d'une station. L'objectif principal est d'améliorer l'efficacité et de réduire les interventions manuelles, en offrant une solution pratique pour la gestion des stations de voitures.
